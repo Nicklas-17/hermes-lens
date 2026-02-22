@@ -1,0 +1,17 @@
+.env
+*.env
+.env.local
+.env.production
+
+
+/bin/
+/dist/
+*.exe
+
+
+.idea/
+.vscode/
+*.DS_Store
+
+
+tmp/
