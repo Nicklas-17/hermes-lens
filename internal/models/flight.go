@@ -1,6 +1,6 @@
 package models
 
-type FlightPriceEvents struct {
+type FlightPriceEvent struct {
 	ID            string `json:"id"`
 	Origin        string `json:"origin"`
 	Destination   string `json:"destination"`
